@@ -10,7 +10,8 @@ Full-Stack Web Developer
 *   🚀  I'm currently working on [My Portfolio](http://ifreesmoke.github.io/Hello-World/)
 *   🧠  I'm learning JavaScript
 *   🤝  I'm open to collaborating on Instagram
-*   ⚡  I'm also a variety streamer over on Twitch, mainly fps<a href="https://www.twitter.com/DamianR___" target="_blank" rel="noreferrer"><img
+*   ⚡  I'm also a variety streamer over on Twitch, mainly fps
+<a href="https://www.twitter.com/DamianR___" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitter/follow/DamianR___?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
                 /></a><a href="https://www.github.com/DamianR96" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/DamianR96?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitch.tv/ifreesmoke" target="_blank" rel="noreferrer"><img
@@ -26,10 +27,7 @@ Full-Stack Web Developer
                                 <a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" /></a>
                                 <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a>
                     </p>
-                    
-                  ### Socials
-                  
-                  
+                  ### Socials                                    
                 <p align="left">
                           
                       <a href="https://discord.com/users/iFreeSmoke" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
