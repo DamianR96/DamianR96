@@ -41,33 +41,36 @@ Full-Stack Web Developer
                                   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a>
                     </p>
                   ### Socials                                    
-                <p align="left">
+             <p align="left">
                           
-                      <a href="https://discord.com/users/iFreeSmoke" target="_blank" rel="noreferrer">
-                        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
+       <a href="https://discord.com/users/iFreeSmoke" target="_blank" rel="noreferrer"></a>
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" />
                           
-                      <a href="https://www.github.com/DamianR96" target="_blank" rel="noreferrer">
-                        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+    <a href="https://www.github.com/DamianR96" target="_blank" rel="noreferrer"></a>
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
                           
-                      <a href="http://www.instagram.com/ifreesmoke/" target="_blank" rel="noreferrer">
-                        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
+   <a href="http://www.instagram.com/ifreesmoke/" target="_blank" rel="noreferrer"></a>
+   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />
                           
-                      <a href="https://www.linkedin.com/in/damian-rejch-0b4723183" target="_blank" rel="noreferrer">
-                        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+   <a href="https://www.linkedin.com/in/damian-rejch-0b4723183" target="_blank" rel="noreferrer"></a>
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
                           
-                      <a href="https://www.stackoverflow.com/users/Damian-R" target="_blank" rel="noreferrer">
-                        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a>
+  <a href="https://www.stackoverflow.com/users/Damian-R" target="_blank" rel="noreferrer"></a>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" />
                           
-                      <a href="https://www.twitter.com/DamianR___" target="_blank" rel="noreferrer">
-                        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
+  <a href="https://www.twitter.com/DamianR___" target="_blank" rel="noreferrer"></a>
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
                           
-                      <a href="https://www.youtube.com/c/UCYDZq-kzVrO_CdRFT4E8cew" target="_blank" rel="noreferrer">
-                        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a>
+      <a href="https://www.youtube.com/c/UCYDZq-kzVrO_CdRFT4E8cew" target="_blank" rel="noreferrer"></a>
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" />
                           
-                      <a href="https://www.twitch.tv/ifreesmoke" target="_blank" rel="noreferrer">
-                        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b>
+      <a href="https://www.twitch.tv/ifreesmoke" target="_blank" rel="noreferrer"></a>
+     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" />
+</p>
+### Badges
+<b>My GitHub Stats</b>
                         <a href="http://www.github.com/DamianR96">
-  <img src="https://github-readme-stats.vercel.app/api?username=DamianR96&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="DamianR96's GitHub stats" /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=DamianR96&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="DamianR96's GitHub stats" />
   <a href="https://github.com/DamianR96" align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DamianR96&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
   ### Support Me
