@@ -60,12 +60,12 @@ Full-Stack Web Developer
                           
   <a href="https://www.twitter.com/DamianR___" target="_blank" rel="noreferrer"></a>
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
-                          
+    <p>                      
     <a href="https://www.youtube.com/c/UCYDZq-kzVrO_CdRFT4E8cew" target="_blank" rel="noreferrer"></a>
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" />
-                          
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></p>
+     <p>                     
      <a href="https://www.twitch.tv/ifreesmoke" target="_blank" rel="noreferrer"></a>
-     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" />
+     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></p>
 </p>
 
 <b>My GitHub Stats</b>
