@@ -45,9 +45,9 @@ Full-Stack Web Developer
         <p>                  
         <a href="https://discord.com/users/iFreeSmoke" target="_blank" rel="noreferrer"></a>
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" />
-                          
+        <p>
         <a href="https://www.github.com/DamianR96" target="_blank" rel="noreferrer"></a>
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></p>
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></p></p>
                           
    <a href="http://www.instagram.com/ifreesmoke/" target="_blank" rel="noreferrer"></a>
    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />
