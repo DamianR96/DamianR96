@@ -41,7 +41,7 @@ Full-Stack Web Developer
                                   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a>
                     </p>
                    Socials                                    
-             <p align="center">
+             <p align="left">
         <p>                  
         <a href="https://discord.com/users/iFreeSmoke" target="_blank" rel="noreferrer"></a>
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" />
