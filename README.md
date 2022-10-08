@@ -18,7 +18,7 @@ Full-Stack Web Developer
   <a href="https://www.twitch.tv/ifreesmoke" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/twitch/status/ifreesmoke?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
 
-<p align="left">
+<p align="center">
                                 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
                                 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
