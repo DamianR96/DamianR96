@@ -70,10 +70,15 @@ Full-Stack Web Developer
 
 
 <b>My GitHub Stats</b>
-                        <a href="http://www.github.com/DamianR96">
-  <img src="https://github-readme-stats.vercel.app/api?username=DamianR96&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="DamianR96's GitHub stats" />
-  <a href="https://github.com/DamianR96">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DamianR96&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+                   <div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+  <a href="http://www.github.com/DamianR96" target="_blank" rel="noreferrer">
+    <img src="https://github-readme-stats.vercel.app/api?username=DamianR96&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="DamianR96's GitHub stats" />
+  </a>
+  <a href="https://github.com/DamianR96" target="_blank" rel="noreferrer">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DamianR96&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
+  </a>
+</div>
+
 
   <a href="https://www.buymeacoffee.com/DamianR">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
