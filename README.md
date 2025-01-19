@@ -6,7 +6,7 @@ Full-Stack Web Developer
 ------------------------
 
 *   🌍  I'm based in New York City
-*   🖥️  See my portfolio at [My Website]([http://damianr.onuniverse.com/](http://depictionsbydamian.notion.site))
+*   🖥️  See my portfolio at [My Website](http://depictionsbydamian.notion.site)
 *   🚀  I'm currently working on [My Portfolio](https://github.com/DamianR96)
 *   🧠  I'm learning JavaScript
 *   🤝  I'm open to collaborating on Instagram
