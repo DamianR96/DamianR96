@@ -15,8 +15,7 @@ Full-Stack Web Developer
   <img src="https://img.shields.io/twitter/follow/DamianR___?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a>
   <a href="https://www.github.com/DamianR96" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/github/followers/DamianR96?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-  <a href="https://www.twitch.tv/ifreesmoke" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/twitch/status/ifreesmoke?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
+
 <p align="center">   Tools </p>  
 <p align="center">
                                 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
