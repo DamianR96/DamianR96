@@ -11,8 +11,7 @@ Full-Stack Web Developer
 *   🧠  I'm learning JavaScript
 *   🤝  I'm open to collaborating on Instagram
 *   ⚡  I'm also a variety streamer over on Twitch, mainly fps
-<a href="https://www.twitter.com/DamianR___" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/twitter/follow/DamianR___?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a>
+
   <a href="https://www.github.com/DamianR96" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/github/followers/DamianR96?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
