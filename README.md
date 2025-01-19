@@ -42,23 +42,32 @@ Full-Stack Web Developer
                     </p>
             Socials                                           
 <p align="center">
-                  <a href="https://discord.com/users/iFreeSmoke" target="_blank" rel="noreferrer"></a>
-                  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" />
-                  <a href="https://www.github.com/DamianR96" target="_blank" rel="noreferrer"></a>
-                  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></p></p>  
-                   <a href="http://www.instagram.com/ifreesmoke/" target="_blank" rel="noreferrer"></a>
-                   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />     
-                     <a href="https://www.linkedin.com/in/damian-rejch-0b4723183" target="_blank" rel="noreferrer"></a>
-                      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />     
-                      <a href="https://www.stackoverflow.com/users/Damian-R" target="_blank" rel="noreferrer"></a>
-                      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" />       
-                      <a href="https://www.twitter.com/DamianR___" target="_blank" rel="noreferrer"></a>
-                      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />      
-                      <a href="https://www.youtube.com/c/UCYDZq-kzVrO_CdRFT4E8cew" target="_blank" rel="noreferrer"></a>
-                      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></p>   
-                     <a href="https://www.twitch.tv/ifreesmoke" target="_blank" rel="noreferrer"></a>
-                   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></p>
+  <a href="https://discord.com/users/iFreeSmoke" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" />
+  </a>
+  <a href="https://www.github.com/DamianR96" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
+  </a>
+  <a href="http://www.instagram.com/ifreesmoke/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />
+  </a>
+  <a href="https://www.linkedin.com/in/damian-rejch-0b4723183" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+  </a>
+  <a href="https://www.stackoverflow.com/users/Damian-R" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" />
+  </a>
+  <a href="https://www.twitter.com/DamianR___" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
+  </a>
+  <a href="https://www.youtube.com/c/UCYDZq-kzVrO_CdRFT4E8cew" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" />
+  </a>
+  <a href="https://www.twitch.tv/ifreesmoke" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" />
+  </a>
 </p>
+
 
 <b>My GitHub Stats</b>
                         <a href="http://www.github.com/DamianR96">
