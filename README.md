@@ -79,10 +79,10 @@ Full-Stack Web Developer
   </a>
 </div>
 
-
+<p align="center">
   <a href="https://www.buymeacoffee.com/DamianR">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
-
+</p>
 
 <!---
 DamianR96/DamianR96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
