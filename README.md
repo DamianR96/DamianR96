@@ -40,9 +40,8 @@ Full-Stack Web Developer
                                 <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer">
                                   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a>
                     </p>
-                                                       
+            Socials                                           
 <p align="center">
-  Socials
                   <a href="https://discord.com/users/iFreeSmoke" target="_blank" rel="noreferrer"></a>
                   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" />
                   <a href="https://www.github.com/DamianR96" target="_blank" rel="noreferrer"></a>
